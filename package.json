@@ -1,0 +1,24 @@
+{
+  "name": "database-mongodb-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "credentials.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiannaDavila/mongo-db-practice-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiannaDavila/mongo-db-practice-/issues"
+  },
+  "homepage": "https://github.com/GiannaDavila/mongo-db-practice-#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
